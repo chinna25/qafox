@@ -1,0 +1,49 @@
+07:06:14.315 [main] INFO  TestCases.TC002_Login - finished TC002_Login
+07:37:23.884 [main] INFO  TestCases.TC001_AccountRegistration - launcherd chrome browser
+07:37:23.938 [main] INFO  TestCases.TC001_AccountRegistration - Starting TC001_AccountRegistration
+07:37:26.297 [main] INFO  TestCases.TC001_AccountRegistration - Home Page displayed
+07:37:27.322 [main] INFO  TestCases.TC001_AccountRegistration - click on my  Acount
+07:37:28.065 [main] INFO  TestCases.TC001_AccountRegistration - click on Register
+07:37:28.336 [main] INFO  TestCases.TC001_AccountRegistration - provided First name
+07:37:28.498 [main] INFO  TestCases.TC001_AccountRegistration - provided Last name
+07:37:28.705 [main] INFO  TestCases.TC001_AccountRegistration - provided Email
+07:37:28.912 [main] INFO  TestCases.TC001_AccountRegistration - provided Telephonenumber
+07:37:29.093 [main] INFO  TestCases.TC001_AccountRegistration - provided password
+07:37:29.277 [main] INFO  TestCases.TC001_AccountRegistration - provided cnf password
+07:37:30.202 [main] INFO  TestCases.TC001_AccountRegistration - clicked on continue
+07:37:30.326 [main] INFO  TestCases.TC001_AccountRegistration - Account Registration Success
+07:37:30.332 [main] INFO  TestCases.TC001_AccountRegistration - Finished TC001_AccountRegistration
+07:37:32.575 [main] INFO  TestCases.TC002_Login - launcherd chrome browser
+07:37:32.593 [main] INFO  TestCases.TC002_Login - Starting TC002_Login
+07:37:35.699 [main] INFO  TestCases.TC002_Login - Home Page displayed
+07:37:36.045 [main] INFO  TestCases.TC002_Login - click on my  Acount
+07:37:36.523 [main] INFO  TestCases.TC002_Login - clickd on login
+07:37:36.808 [main] INFO  TestCases.TC002_Login - provided email
+07:37:37.019 [main] INFO  TestCases.TC002_Login - provided password
+07:37:37.718 [main] INFO  TestCases.TC002_Login - click login successfully
+07:37:37.821 [main] INFO  TestCases.TC002_Login - login success
+07:37:37.821 [main] INFO  TestCases.TC002_Login - finished TC002_Login
+07:48:39.709 [main] INFO  TestCases.TC001_AccountRegistration - launcherd chrome browser
+07:48:39.784 [main] INFO  TestCases.TC001_AccountRegistration - Starting TC001_AccountRegistration
+07:48:41.847 [main] INFO  TestCases.TC001_AccountRegistration - Home Page displayed
+07:48:43.057 [main] INFO  TestCases.TC001_AccountRegistration - click on my  Acount
+07:48:43.884 [main] INFO  TestCases.TC001_AccountRegistration - click on Register
+07:48:44.136 [main] INFO  TestCases.TC001_AccountRegistration - provided First name
+07:48:44.335 [main] INFO  TestCases.TC001_AccountRegistration - provided Last name
+07:48:44.579 [main] INFO  TestCases.TC001_AccountRegistration - provided Email
+07:48:44.761 [main] INFO  TestCases.TC001_AccountRegistration - provided Telephonenumber
+07:48:44.947 [main] INFO  TestCases.TC001_AccountRegistration - provided password
+07:48:45.144 [main] INFO  TestCases.TC001_AccountRegistration - provided cnf password
+07:48:46.274 [main] INFO  TestCases.TC001_AccountRegistration - clicked on continue
+07:48:46.391 [main] INFO  TestCases.TC001_AccountRegistration - Account Registration Success
+07:48:46.413 [main] INFO  TestCases.TC001_AccountRegistration - Finished TC001_AccountRegistration
+07:48:48.774 [main] INFO  TestCases.TC002_Login - launcherd chrome browser
+07:48:48.798 [main] INFO  TestCases.TC002_Login - Starting TC002_Login
+07:48:51.287 [main] INFO  TestCases.TC002_Login - Home Page displayed
+07:48:52.047 [main] INFO  TestCases.TC002_Login - click on my  Acount
+07:48:52.519 [main] INFO  TestCases.TC002_Login - clickd on login
+07:48:53.236 [main] INFO  TestCases.TC002_Login - provided email
+07:48:53.532 [main] INFO  TestCases.TC002_Login - provided password
+07:48:54.214 [main] INFO  TestCases.TC002_Login - click login successfully
+07:48:54.335 [main] INFO  TestCases.TC002_Login - login success
+07:48:54.336 [main] INFO  TestCases.TC002_Login - finished TC002_Login

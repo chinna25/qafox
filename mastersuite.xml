@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="qafox Test suite">
+		
+	
+	<test name="qafox tests ">
+		
+		<parameter name="browser" value="chrome"/>
+		
+		<classes>
+			<class name="TestCases.TC001_AccountRegistration"/>
+			<class name="TestCases.TC002_Login"/>
+			class name="TestCases.TC003_LoginDDT"/>
+			
+			
+		</classes>
+	</test>
+	
+	
+</suite>
